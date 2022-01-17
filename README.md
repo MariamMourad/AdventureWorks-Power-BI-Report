@@ -4,7 +4,7 @@ https://docs.microsoft.com/en-us/sql/samples/adventureworks-install-configure?vi
 
 Conductivity Mode => DirectQuery
 
-##Tables:
+## Tables:
 Sales.SalesOrderHeader
 Sales.SalesOrderDetail
 Sales.vSalesPerson (view)
@@ -29,7 +29,7 @@ Contains: PorductID, Product, SubCategory, Category
 
 Solve TotalDue, Tax and Fright by Power Query
 
-##Modelig:
+## Modelig:
 
 - Star Schema 
 - Product Hierarchy
@@ -41,7 +41,7 @@ shipdate
 duedate
 
 
-##Measures
+## Measures
 - Number of Orders Measure 
 - Total SubTotal Measure 
 - Total Tax Measure 
@@ -51,7 +51,7 @@ duedate
 
 create DAX table that contains all measures
 
-##Visuals: (Use Measures)
+## Visuals: (Use Measures)
 
 - Drill Down
 - Drill Through 
