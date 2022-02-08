@@ -70,3 +70,6 @@ create DAX table that contains all measures
 - Number of Orders by FlagOnlineOffline
 - Number of Orders vs. TotalDue by Territory
 - Top 10 Sales Perosns (Number of Orders and Total Amount) (Top N Filter)
+
+# youtube link:
+https://www.youtube.com/watch?v=y5lleKj5EOE
